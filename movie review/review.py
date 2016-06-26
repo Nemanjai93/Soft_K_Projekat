@@ -58,6 +58,8 @@ if __name__ == '__main__':
 		'data', 'Bag_of_Words_model.csv'), index=False, quoting=3)
 
 	if result == 1:
-		print "film je dobar."
+		print "Film je dobar.\nssss"
+	else 
+		print "Film je los.\n"
 
 	print "Wrote results to Bag_of_Words_model.csv"
